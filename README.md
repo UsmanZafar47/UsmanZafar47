@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanzafar47&label=Profile%20views&color=0e75b6&style=flat" alt="usmanzafar47" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKrunal2206&psig=AOvVaw3GfEgfLk9ReB67BCE2dsvZ&ust=1708157633660000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDv3pm1r4QDFQAAAAAdAAAAABAK">
 
 
 - 🌱 I’m currently learning **Artificial Intelligence, Software for Mobile Devices (Kotlin), Parallel Distributed Computing, Software Engineering**
